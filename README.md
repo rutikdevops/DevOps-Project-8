@@ -7,19 +7,31 @@
 <br></br>
 
 # Project Steps :-
-## Setting Up the Netflix Clone Application
+- Create 1 ec2 instance : Netflix : Ubuntu, t2-medium
+<img width="960" alt="image" src="https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/ed82d619-c843-4065-8512-796d4be75637">
 
-Follow these steps to set up and run the Netflix clone application on your local machine:
+- Goto Security-> security group-> Edit inbound rules-> Add rule-> choose All Traffic
+![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/b8de175a-73fd-448b-9570-6dc2ef55eb4e)
 
-### 1. Update Package List
 
-Run the following commands to update the package list on your system:
 
+# 1. Install and Configure the Docker :-
 ```bash
-sudo apt update
+ubuntu
+sudo su
+apt update -y
+apt install docker.io -y
 ```
 
-### 2. Install Required Packages
+
+# 2. Clone the Github code :-
+```bash
+git clone https://github.com/rutikdevops/DevOps-Project-5.git
+cd
+```
+
+
+# 3. Install Required Packages
 
 Install the necessary packages and dependencies for the application using the following command:
 
@@ -27,7 +39,7 @@ Install the necessary packages and dependencies for the application using the fo
 sudo apt install -y curl dirmngr apt-transport-https lsb-release ca-certificates
 ```
 
-### 3. Install Node.js
+# 4. Install Node.js
 
 Install Node.js, a JavaScript runtime, with the following commands:
 
@@ -60,16 +72,23 @@ If you want to serve the built version of the application, you can use the `serv
 npm install -g serve
 ```
 
-Then, serve the built application on port 4000:
+Then, serve the built application on port 3000:
 
 ```bash
-serve -s build -l 4000
+serve -s build -l 3000
 ```
 
-Now you should be able to access the Netflix clone application by opening your web browser and navigating to `http://localhost:4000`.
+Now you should be able to access the Netflix clone application by opening your web browser and navigating to `http://localhost:3000`.
 
 Enjoy exploring the Netflix clone!
 
+
+
+# Pull Docker Image from DockerHub :-
+```bash
+docker pull rutikdevops/netflix
+```
+![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/8e168aa8-00c0-4b94-9723-d775c3b9844c)
 
 
 # Project Reference :-
