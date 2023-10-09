@@ -11,8 +11,9 @@
 # Project Steps :-
 - Create 1 ec2 instance : Netflix : Ubuntu, t2-medium
 <img width="960" alt="image" src="https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/ed82d619-c843-4065-8512-796d4be75637">
-
+<br></br>
 - Goto Security-> security group-> Edit inbound rules-> Add rule-> choose All Traffic
+<br></br>
 ![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/b8de175a-73fd-448b-9570-6dc2ef55eb4e)
 
 
