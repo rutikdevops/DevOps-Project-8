@@ -29,8 +29,8 @@ apt install docker.io -y
 
 # 2. Clone the Github code :-
 ```bash
-git clone https://github.com/rutikdevops/DevOps-Project-5.git
-cd
+git clone https://github.com/rutikdevops/DevOps-Project-8.git
+cd DevOps-Project-8
 ```
 
 
