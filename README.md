@@ -14,7 +14,7 @@
 <br></br>
 - Goto Security-> security group-> Edit inbound rules-> Add rule-> choose All Traffic
 <br></br>
-![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/b8de175a-73fd-448b-9570-6dc2ef55eb4e)
+![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/32b5a62d-c187-4a2a-a220-02c7216b3701)
 
 
 
