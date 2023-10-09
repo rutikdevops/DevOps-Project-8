@@ -1,9 +1,11 @@
+# 🚀 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 & 𝗗𝗲𝗽𝗹𝗼𝘆𝗶𝗻𝗴 𝗮 𝗡𝗲𝘁𝗳𝗹𝗶𝘅-𝗖𝗹𝗼𝗻𝗲 𝗔𝗽𝗽! 🚀
 # DevOps-Project-8
 ![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/e0e5f808-2ab9-4185-b8ed-519c55073416)
 # Project Blog link :-
 <br></br>
 
 # Project Overview :-
+- In this Project, I walk you through a clone app that replicates the iconic Netflix user interface, complete with smooth transitions and a database integration for storing user information.
 <br></br>
 
 # Project Steps :-
