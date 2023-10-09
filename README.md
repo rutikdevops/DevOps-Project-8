@@ -14,7 +14,7 @@
 <br></br>
 - Goto Security-> security group-> Edit inbound rules-> Add rule-> choose All Traffic
 <br></br>
-![image](https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/32b5a62d-c187-4a2a-a220-02c7216b3701)
+<img width="960" alt="image" src="https://github.com/rutikdevops/DevOps-Project-8/assets/109506158/fe6d6b36-4f10-4b4d-b994-eac96fda9c39">
 
 
 
